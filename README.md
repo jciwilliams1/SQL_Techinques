@@ -16,7 +16,7 @@ In preparation for success planning, the AVP of Lending is reviewing the lending
 ###
 <p align="center">
 Extracting, Sorting, and Limiting Data: <br/>
-<img width="203" alt="Image" src="https://github.com/user-attachments/assets/6890fef1-daa2-4d67-993e-a9b23dfb4a9f" />
+<img width="203" height="113" alt="Image" src="https://github.com/user-attachments/assets/ed328fcb-19e2-4e55-97f9-ed9dfb2e601e" />
 <br />
 <br />
 
@@ -29,7 +29,7 @@ The AVP of Lending would like to now see Personal Loans approved between $10K to
 ###
 <p align="center">
 Extracting, Sorting, and Limiting Data: <br/>
-<img width="229" alt="Image" src="https://github.com/user-attachments/assets/8629967a-0a3b-47ae-bef9-822fced5d6ab" />
+<img width="229" height="116" alt="Image" src="https://github.com/user-attachments/assets/02af8c98-3355-463a-a921-ad9296c28b83" />
 <br />
 <br />
 
@@ -42,7 +42,7 @@ The Manager’s Meetings have just concluded, and the Regional Director of Sales
 ###
 <p align="center">
 Filtering Data and Date Functions: <br/>
-<img width="400" alt="Image" src="https://github.com/user-attachments/assets/f6b2a7ab-d522-4327-b306-0510a648f79c" />
+<img width="400" height="85" alt="Image" src="https://github.com/user-attachments/assets/46e957b0-8f38-4d85-a4be-21acc697dbe2" />
 <br />
 <br />
 
@@ -55,7 +55,7 @@ It was brought to our attention that there were issues with accounts that were o
 ###
 <p align="center">
 Filtering Data and Date Functions: <br/>
-<img width="273" alt="Image" src="https://github.com/user-attachments/assets/2846b338-e025-475f-8ade-ac4fdb9c8a8a" />
+<img width="273" height="94" alt="Image" src="https://github.com/user-attachments/assets/d6eecb1d-ad27-42c7-8605-a05b216788fb" />
 <br />
 <br />
 
@@ -68,7 +68,7 @@ The Risk Management team needs a list of customers where their last transaction 
 ###
 <p align="center">
 Extracting, Sorting, Limiting, Filtering Data, and Date Functions: <br/>
-<img width="290" alt="Image" src="https://github.com/user-attachments/assets/17bda2e1-97cf-4c85-87bb-dac203609e0c" />
+<img width="290" height="94" alt="Image" src="https://github.com/user-attachments/assets/165d7960-4818-45fe-b9f1-ff90d71c76af" />
 <br />
 <br />
 
@@ -80,7 +80,7 @@ We are getting ready to roll out a 1 yr 5.1% APY savings account promotion for o
 ###
 <p align="center">
 Filtering Data, Date Functions, and Calculated Fields: <br/>
-<img width="373" alt="Image" src="https://github.com/user-attachments/assets/b2f6160d-e7bc-4889-880f-3779d8766898" />
+<img width="373" height="93" alt="Image" src="https://github.com/user-attachments/assets/cd87e5ff-96ae-46ee-8c38-f53451081f29" />
 <br />
 <br />
 
@@ -93,7 +93,7 @@ Our Customer Service team sends a 5 year, 10 year, 15 year, and 20 year gift to 
 ###
 <p align="center">
 Filtering Data and Date Functions: <br/>
-<img width="323" alt="Image" src="https://github.com/user-attachments/assets/2a50b9a7-701e-45be-9177-677f94b576f5" />
+<img width="323" height="93" alt="Image" src="https://github.com/user-attachments/assets/c8a50724-b69c-4bc3-9f74-3752d4b5ae09" />
 <br />
 <br />
 
