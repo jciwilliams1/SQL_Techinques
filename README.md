@@ -1,11 +1,20 @@
 <h1>SQL Fundamentals for Data Analysis</h1>
 <img width="324" height="324" alt="Image" src="https://github.com/user-attachments/assets/ee991e7f-a5de-4adf-a728-b211d91bfe85"/>
 
-### SQL projects demonstrate comprehensive skills like: 
- - <b>Retrieving Data from a Single Table</b>
- - <b>Filtering and Calculating Data</b>
- - <b>Summarizing the Data</b>
- - <b>Retrieving Data from Multiple Tables Using Joins</b>
+
+### Purpose of the Project
+
+This project provides a structured collection of SQL exercises that progress from foundational querying techniques to intermediate analytical skills. The scenarios simulate real business questions and focus on selecting data, applying conditional logic, sorting results, building calculated fields, and working with multiple tables.
+
+The goal is to demonstrate the learner’s ability to apply SQL to solve practical data problems while showcasing clear reasoning and query organization.
+
+### Skills Demonstrated
+This project highlights the ability to:
+- <b>Retrieve and explore data using SELECT statements</b>
+- <b>	Apply filtering logic using comparison, range, and set-based operators</b>
+- <b>Sort and limit results to uncover insights</b>
+- <b>	Create calculated and derived fields</b>
+- <b>Interpret business questions and translate them into SQL solutions</b>
 
 
 <h2>SQL Project 1</h2>
