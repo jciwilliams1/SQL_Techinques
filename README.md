@@ -4,18 +4,20 @@
 
 ### Purpose of the Project
 
-This project provides a structured collection of SQL exercises that progress from foundational querying techniques to intermediate analytical skills. The scenarios simulate real business questions and focus on selecting data, applying conditional logic, sorting results, building calculated fields, and working with multiple tables.
+This project provides a structured collection of SQL scenarios that progress from foundational querying techniques to intermediate analytical skills. The scenarios simulate real business questions and focus on selecting data, applying conditional logic, organizing results with ORDER BY, creating calculated fields and aggregate values, and summarizing data using GROUP BY and HAVING.
 
-The goal is to demonstrate the learner’s ability to apply SQL to solve practical data problems while showcasing clear reasoning and query organization.
+The goal is to demonstrate the ability to apply SQL to practical data problems while showcasing clear reasoning, accurate analytical logic, and well-organized query structure.
 
 ### Skills Demonstrated
 This project highlights the ability to:
 - <b>Retrieve and explore data using SELECT statements</b>
-- <b>	Apply filtering logic using comparison, range, and set-based operators</b>
-- <b>Sort and limit results to uncover insights</b>
-- <b>	Create calculated and derived fields</b>
+- <b>Work within relational database structures using databases, schemas, and tables</b>
+- <b>Apply filtering logic using comparison, range, and set-based operators in WHERE and HAVING</b>
+- <b>Sort and organize results using ORDER BY and apply limits when appropriate</b>
+- <b>Create calculated and derived fields using numeric, text, and date operations</b>
+- <b>Use aggregate functions to summarize data</b>
+- <b>Categorize and summarize results using GROUP BY</b>
 - <b>Interpret business questions and translate them into SQL solutions</b>
-
 
 <h2>SQL Project 1</h2>
 In preparation for success planning, the AVP of Lending is reviewing the lending portfolio for Stillwater Community Bank and is interested to see the Mortgage and Auto Loans approved over $20K. I would like to review the top 10 loans with the highest loan amount and should include the following: ID of the loan, amount of the loan, type of loan, and status of the loan.
