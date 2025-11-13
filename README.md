@@ -1,5 +1,5 @@
 <h1>SQL Fundamentals for Data Analysis</h1>
-<img width="410" alt="SQL Project 1" src="https://github.com/jciwilliams/SQL_Techniques/assets/152811710/0cd14067-3a89-44f3-84d1-e1396f436c7d">
+<img width="324" height="324" alt="Image" src="https://github.com/user-attachments/assets/ee991e7f-a5de-4adf-a728-b211d91bfe85"/>
 
 ### SQL projects demonstrate comprehensive skills like: 
  - <b>Retrieving Data from a Single Table</b>
