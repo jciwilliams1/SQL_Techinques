@@ -46,7 +46,7 @@ Finance is conducting research for our upcoming Fed stress test. They are asking
 
 **Focus:** Extracting, Sorting, Limiting Data, and Calculated Fields (`SELECT`, Calculated Fields, `WHERE`, `ORDER BY`)
 
-<img width="290" alt="Image" src="https://github.com/user-attachments/assets/77479544-73f5-4b08-849c-de567d3c2af5" />
+<img width="490" height="274" alt="Image" src="https://github.com/user-attachments/assets/a6a1f819-7a5f-41d3-81a0-11b5d1e34927" />
 
 
 ## SQL Project 17 – Monthly interest metric on >36-month loans
@@ -56,7 +56,7 @@ Samira, a regional branch manager, is evaluating interest impact on long-term mo
 
 **Focus:** Filtering and Calculated Fields (`SELECT`, `WHERE`, Calculated Fields)
 
-<img width="670" alt="Image" src="https://github.com/user-attachments/assets/734a08ff-89d5-41a3-91d6-05e15a5ee1e9" />
+<img width="774" height="405" alt="Image" src="https://github.com/user-attachments/assets/682ead21-3020-4de1-85fc-197ab40da8ba" />
 
 
 ## SQL Project 18 – Withdrawals causing large negative balances
@@ -66,7 +66,7 @@ Maya in Customer Success is examining transaction risk around withdrawals. She�
 
 **Focus:** Filtering and Calculated Fields (`SELECT`, `WHERE`, Calculated Fields)
 
-<img width="470" alt="Image" src="https://github.com/user-attachments/assets/734a08ff-89d5-41a3-91d6-05e15a5ee1e9" />
+<img width="785" height="401" alt="Image" src="https://github.com/user-attachments/assets/63c3b9d4-5be7-467e-82e6-d44fc35984b3" />
 
 
 
