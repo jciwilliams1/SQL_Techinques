@@ -7,6 +7,7 @@
 This project provides a structured collection of SQL scenarios that progress from foundational querying techniques to intermediate analytical skills. The scenarios simulate real business questions and focus on selecting data, applying conditional logic, organizing results with ORDER BY, creating calculated fields and aggregate values, and summarizing data using GROUP BY and HAVING.
 
 The goal is to demonstrate the ability to apply SQL to practical data problems while showcasing clear reasoning, accurate analytical logic, and well-organized query structure.
+<br />
 
 ### Skills Demonstrated
 This project highlights the ability to:
@@ -18,6 +19,8 @@ This project highlights the ability to:
 - <b>Use aggregate functions to summarize data</b>
 - <b>Categorize and summarize results using GROUP BY</b>
 - <b>Interpret business questions and translate them into SQL solutions</b>
+<br />
+<br />
 
 <h2>SQL Project 1</h2>
 In preparation for success planning, the AVP of Lending is reviewing the lending portfolio for Stillwater Community Bank and is interested to see the Mortgage and Auto Loans approved over $20K. I would like to review the top 10 loans with the highest loan amount and should include the following: ID of the loan, amount of the loan, type of loan, and status of the loan.
