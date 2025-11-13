@@ -1,13 +1,11 @@
 <h1>SQL Fundamentals for Data Analysis</h1>
 <img width="324" height="324" alt="Image" src="https://github.com/user-attachments/assets/ee991e7f-a5de-4adf-a728-b211d91bfe85"/>
 
-
 ### Purpose of the Project
 
 This project provides a structured collection of SQL scenarios that progress from foundational querying techniques to intermediate analytical skills. The scenarios simulate real business questions and focus on selecting data, applying conditional logic, organizing results with ORDER BY, creating calculated fields and aggregate values, and summarizing data using GROUP BY and HAVING.
 
 The goal is to demonstrate the ability to apply SQL to practical data problems while showcasing clear reasoning, accurate analytical logic, and well-organized query structure.
-<br />
 
 ### Skills Demonstrated
 This project highlights the ability to:
@@ -19,14 +17,23 @@ This project highlights the ability to:
 - <b>Use aggregate functions to summarize data</b>
 - <b>Categorize and summarize results using GROUP BY</b>
 - <b>Interpret business questions and translate them into SQL solutions</b>
-<br />
-<br />
 
-<h2>SQL Project 1</h2>
+## SQL Project 1 – Mortgage and Auto Loans Over $20K
+
+**Scenario:**  
+In preparation for success planning, the AVP of Lending is reviewing the lending portfolio for Stillwater Community Bank and is interested to see the Mortgage and Auto Loans approved over $20K. They would like to review the top 10 loans with the highest loan amount and see the loan ID, loan amount, loan type, and loan status.
+
+**Focus:** Extracting, sorting, and limiting data (`SELECT`, `WHERE`, `ORDER BY`, `LIMIT`)
+
+_Image: (optional screenshot here)_
+
+<h2>SQL Project 1 – Mortgage and Auto Loans Over $20K</h2>
+<b>Scenario:</b>
 In preparation for success planning, the AVP of Lending is reviewing the lending portfolio for Stillwater Community Bank and is interested to see the Mortgage and Auto Loans approved over $20K. I would like to review the top 10 loans with the highest loan amount and should include the following: ID of the loan, amount of the loan, type of loan, and status of the loan.
 <br />
 
-
+<b>Focus:</b>
+ Extracting, sorting, and limiting data (`SELECT`, `WHERE`, `ORDER BY`, `LIMIT`)<br/>
 ###
 <p align="center">
 Extracting, Sorting, and Limiting Data: <br/>
