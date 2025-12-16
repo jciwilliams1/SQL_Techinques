@@ -70,4 +70,18 @@ Extracting, Sorting, Limiting Data, and Calculated Fields: <br/>
 <br />
 
 
+
+<h2>SQL Project 6</h2>
+A new exercise.
+<br />
+
+
+###
+<p align="center">
+Something new: <br/>
+<img width="585" height="201" alt="Image" src="https://github.com/user-attachments/assets/30b296bb-4f82-49ed-a462-87e7a265e25a" />
+<br />
+<br />
+
+
 </p>
